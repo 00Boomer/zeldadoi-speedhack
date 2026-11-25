@@ -1,0 +1,21 @@
+{
+  "artifacts": [
+    {
+      "path": "zeldadoi-v1.1.6-1gb-speedhack-manual-install.zip",
+      "sha256": "8ea1cb9db02fc7c4b8e7ac87f0aa390860ac3d953d42de083d4a43a1e752b82e",
+      "size": 15148234
+    },
+    {
+      "path": "zeldadoi-v1.1.6-1gb-speedhack-automatic-install.zip",
+      "sha256": "95efae30d465e3214499d07af0aa6dba8904d05c08a63b5e9e8d4a192cac2ec5",
+      "size": 14942522
+    }
+  ],
+  "artwork_sha256": "852ee02ff4b2e1633bafd1729a17f155ae2e7d94a6056c820c839832f60f04a1",
+  "fat32_handheld_qualified": false,
+  "game_droid_sha256": "9d2dc97a35cb4c697f126639cae45828d905e6f400c78f5e5d6c922cbf740269",
+  "production_approved": false,
+  "release_status": "LOCAL_HANDHELD_TEST_CANDIDATE",
+  "schema": "zeldadoi-fat32-distribution-candidate-v1",
+  "target": "1 GB RG35XX SP / muOS"
+}
